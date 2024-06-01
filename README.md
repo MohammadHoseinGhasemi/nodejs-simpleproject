@@ -49,7 +49,7 @@ At the end you can write about yourself in the `About page`.
 
 ## Configs
 
-The main cfg to run this aoo is app.js.
+The main cfg to run this app is app.js.
 You can use the `nodemon` package to run this application easily.
 The app is running on `3003` port.
 
